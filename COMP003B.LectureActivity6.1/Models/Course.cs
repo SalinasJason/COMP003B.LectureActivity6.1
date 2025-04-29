@@ -1,4 +1,6 @@
-﻿namespace COMP003B.LectureActivity6._1.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace COMP003B.LectureActivity6._1.Models
 {
     public class Course
     {
